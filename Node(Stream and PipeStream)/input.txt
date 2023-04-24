@@ -1,0 +1,9 @@
+Streams are like objects that let you read data 
+from a source or write dada from a destination in 
+a "CONTINEOUS FASHION"  . in nodejs there are 4 types
+os streams : 
+
+1 : Readable 
+2: Writable
+3 : Duplex
+4 : Transform
